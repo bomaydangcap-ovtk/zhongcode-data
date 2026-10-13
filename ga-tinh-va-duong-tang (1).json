@@ -1,0 +1,1098 @@
+{
+  "title": "Ga tinh va duong tang",
+  "subtitleData": [
+    {
+      "time": "0:01",
+      "zh": "我今天要看看",
+      "py": "Wǒ jīntiān yào kànkan",
+      "vi": "Hôm nay ta phải xem thử"
+    },
+    {
+      "time": "0:02",
+      "zh": "这个唐僧到底有多厉害。",
+      "py": "Zhège Tángsēng dàodǐ yǒu duō lìhai",
+      "vi": "Tên Đường Tăng này lợi hại đến đâu."
+    },
+    {
+      "time": "0:06",
+      "zh": "啊，忘了带钥匙。哦哦，进不去了。",
+      "py": "A, wàngle dài yàoshi. Ó ó, jìn bù qù le.",
+      "vi": "À, quên mang chìa khóa rồi. Ồ kìa, không vào được."
+    },
+    {
+      "time": "0:11",
+      "zh": "直接进来吧，你用不着钥匙的。",
+      "py": "Zhíjiē jìnlái ba, nǐ yòng bù zháo yàoshi de.",
+      "vi": "Cứ thế mà vào, ngươi không cần dùng chìa khóa đâu."
+    },
+    {
+      "time": "0:13",
+      "zh": "啊？",
+      "py": "A?",
+      "vi": "Hả?"
+    },
+    {
+      "time": "0:19",
+      "parts": [
+        "你是不是要跟我 ",
+        {
+          "word": "装怪",
+          "key": "装怪"
+        },
+        "？"
+      ],
+      "py": "Nǐ shì bú shì yào gēn wǒ zhuāng guài?",
+      "vi": "Mày đang giở trò với tao đấy à?"
+    },
+    {
+      "time": "0:23",
+      "zh": "你进不进来？",
+      "py": "Nǐ jìn bù jìnlái?",
+      "vi": "Mày có vào không?"
+    },
+    {
+      "time": "0:25",
+      "parts": [
+        "你是不是要跟我 ",
+        {
+          "word": "装怪",
+          "key": "装怪"
+        },
+        "？"
+      ],
+      "py": "Nǐ shì bú shì yào gēn wǒ zhuāng guài?",
+      "vi": "Mày đang đùa tao à?"
+    },
+    {
+      "time": "0:27",
+      "zh": "你确定？",
+      "py": "Nǐ quèdìng?",
+      "vi": "Mày chắc không?"
+    },
+    {
+      "time": "0:30",
+      "parts": [
+        "呵？ ",
+        {
+          "word": "劳资",
+          "key": "劳资"
+        },
+        "... ",
+        {
+          "word": "劳资",
+          "key": "劳资"
+        },
+        "今天",
+        {
+          "word": "弄死",
+          "key": "弄死"
+        },
+        "你！"
+      ],
+      "py": "He? Láozī... láozī jīntiān nòng sǐ nǐ!",
+      "vi": "Hả... Tao... hôm nay tao cho mày biết tay!"
+    },
+    {
+      "time": "0:35",
+      "zh": "你这样是拿不进来的。你试试转一下",
+      "py": "Nǐ zhèyàng shì ná bù jìn lái de. Nǐ shìshi zhuǎn yíxià",
+      "vi": "Người làm thế không cầm vào được đâu. Ngươi xoay thử xem."
+    },
+    {
+      "time": "0:40",
+      "zh": "哎呀，不是转脑袋，是转你的手",
+      "py": "Āiyā, bú shì zhuǎn nǎodài, shì zhuǎn nǐ de shǒu",
+      "vi": "Ấy, không phải xoay đầu, xoay cái tay ngươi đấy."
+    },
+    {
+      "time": "0:43",
+      "zh": "啊？",
+      "py": "A?",
+      "vi": "Hả?"
+    },
+    {
+      "time": "0:45",
+      "zh": "哎，这就对了嘛。",
+      "py": "Āi, zhè jiù duì le ma.",
+      "vi": "Ấy, đúng rồi đấy mà."
+    },
+    {
+      "time": "0:47",
+      "parts": [
+        "要你 ",
+        {
+          "word": "多嘴",
+          "key": "多嘴"
+        },
+        "，我是在测试门的质量。"
+      ],
+      "py": "Yào nǐ duōzuǐ, wǒ shì zài cèshì mén de zhìliàng.",
+      "vi": "Cần ngươi nói hả, ta đang kiểm tra chất lượng cửa."
+    },
+    {
+      "time": "0:50",
+      "zh": "感觉质量没测出来。",
+      "py": "Gǎnjué zhìliàng méi cè chūlái.",
+      "vi": "Cảm giác chất lượng chưa đo được."
+    },
+    {
+      "time": "0:52",
+      "parts": [
+        "智商",
+        {
+          "word": "倒是",
+          "key": "倒是"
+        },
+        "测出来了。"
+      ],
+      "py": "Zhìshāng dǎoshì cè chūlái le.",
+      "vi": "Mà IQ thì đo ra rồi."
+    },
+    {
+      "time": "0:54",
+      "zh": "哎，小朋友，你作弊写号了吧？",
+      "py": "Āi, xiǎopéngyou, nǐ zuòbì xiě hào le ba?",
+      "vi": "Ê, bạn nhỏ, ngươi gian lận rồi đúng không?"
+    },
+    {
+      "time": "0:57",
+      "zh": "你来这里干什么啊？",
+      "py": "Nǐ lái zhèlǐ gàn shénme a?",
+      "vi": "Ngươi đến đây làm gì thế?"
+    },
+    {
+      "time": "0:58",
+      "zh": "小朋友？哪来的小朋友？",
+      "py": "Xiǎopéngyou? Nǎ lái de xiǎopéngyou?",
+      "vi": "Bạn nhỏ? Bạn nhỏ đâu ra?"
+    },
+    {
+      "time": "1:00",
+      "parts": [
+        "你啊，虽然你",
+        {
+          "word": "将头发梳成大人模样，穿上一身帅气衣裳",
+          "key": "将头发梳成大人模样，穿上一身帅气衣裳"
+        },
+        "，"
+      ],
+      "py": "Nǐ a. Suīrán nǐ jiāng tóufa shū chéng dàrén móyàng, chuān shàng yī shēn shuàiqì yīshang",
+      "vi": "Ngươi đó. Dù ngươi chải chuốt tóc trông giống người lớn, mặc một bộ đồ bảnh bao."
+    },
+    {
+      "time": "1:03",
+      "parts": [
+        "你啊，虽然你",
+        {
+          "word": "将头发梳成大人模样，穿上一身帅气衣裳",
+          "key": "将头发梳成大人模样，穿上一身帅气衣裳"
+        },
+        "，"
+      ],
+      "py": "Nǐ a. Suīrán nǐ jiāng tóufa shū chéng dàrén móyàng, chuān shàng yī shēn shuàiqì yīshang",
+      "vi": "Ngươi đó. Dù ngươi chải chuốt tóc trông giống người lớn, mặc một bộ đồ bảnh bao."
+    },
+    {
+      "time": "1:04",
+      "parts": [
+        "但也掩盖不了你那张",
+        {
+          "word": "稚气",
+          "key": "稚气"
+        },
+        "的脸庞。"
+      ],
+      "py": "Dàn yě yǎngài bùliǎo nǐ nà zhāng zhìqì de liǎnpáng.",
+      "vi": "Nhưng cũng không thể che lấp được gương mặt non nớt của ngươi đâu."
+    },
+    {
+      "time": "1:07",
+      "parts": [
+        "你",
+        {
+          "word": "瞎呀",
+          "key": "瞎呀"
+        },
+        "，"
+      ],
+      "py": "Nǐ xiā ya.",
+      "vi": "Ngươi mù à?"
+    },
+    {
+      "time": "1:08",
+      "zh": "你哪只眼睛看我像小朋友？",
+      "py": "Nǐ nǎ zhī yǎnjing kàn wǒ xiàng xiǎopéngyou?",
+      "vi": "Con mắt nào của ngươi thấy ta giống trẻ con vậy?"
+    },
+    {
+      "time": "1:10",
+      "parts": [
+        "人家是",
+        {
+          "word": "实打实",
+          "key": "实打实"
+        },
+        "的成年人。"
+      ],
+      "py": "Rénjiā shì shídǎshí de chéngnián rén.",
+      "vi": "Người ta là người trưởng thành chính hiệu đấy nhé."
+    },
+    {
+      "time": "1:12",
+      "zh": "呃...小朋友，说话是对的呦。",
+      "py": "E... xiǎopéngyou, shuōhuà shì duì de yō.",
+      "vi": "Ừm... Bạn nhỏ, nói vậy là đúng đấy."
+    },
+    {
+      "time": "1:15",
+      "parts": [
+        "你这么小就不要",
+        {
+          "word": "到处乱跑",
+          "key": "到处乱跑"
+        },
+        "了。"
+      ],
+      "py": "Nǐ zhème xiǎo jiù bú yào dàochù luàn pǎo le.",
+      "vi": "Ngươi còn nhỏ như vậy thì đừng chạy lung tung nữa."
+    },
+    {
+      "time": "1:17",
+      "zh": "这里是皇房，不是玩的地方哦。",
+      "py": "Zhèlǐ shì lǐ fáng, bú shì wán de dìfang o.",
+      "vi": "Chỗ này là nhà giam, không phải chỗ để chơi đâu."
+    },
+    {
+      "time": "1:19",
+      "zh": "快点回去吧，会一个字找不到你，",
+      "py": "Kuài diǎn huí qù ba, yíhuìr jiù zhǎo bù dào nǐ,",
+      "vi": "Mau quay về đi, không lại chẳng tìm thấy ngươi đâu."
+    },
+    {
+      "time": "1:22",
+      "parts": [
+        "这个",
+        {
+          "word": "广播",
+          "key": "广播"
+        },
+        "了。"
+      ],
+      "py": "Zhège guǎngbō le.",
+      "vi": "Đã bị gọi bằng loa rồi."
+    },
+    {
+      "time": "1:23",
+      "zh": "你会广播吗？",
+      "py": "Nǐ huì guǎngbō ma?",
+      "vi": "Thế ngươi biết phát thanh à?"
+    },
+    {
+      "time": "1:24",
+      "zh": "啊？你没听过啊。",
+      "py": "A? Nǐ méi tīng guò a.",
+      "vi": "À? Ngươi chưa nghe à."
+    },
+    {
+      "time": "1:27",
+      "zh": "哎，你叫什么名字？",
+      "py": "Āi, nǐ jiào shénme míngzi?",
+      "vi": "Này, ngươi tên gì?"
+    },
+    {
+      "time": "1:28",
+      "zh": "我叫……",
+      "py": "Wǒ jiào……",
+      "vi": "Ta tên là……"
+    },
+    {
+      "time": "1:29",
+      "zh": "哦，没事。",
+      "py": "Ó, méishì.",
+      "vi": "Ồ, không sao."
+    },
+    {
+      "time": "1:31",
+      "zh": "谢谢小朋友，谢谢小朋友，",
+      "py": "Xièxie xiǎopéngyou, xièxie xiǎopéngyou,",
+      "vi": "Cảm ơn nhóc, cảm ơn nhóc."
+    },
+    {
+      "time": "1:34",
+      "zh": "听到广播后请到前台来，",
+      "py": "Tīng dào guǎngbō hòu qǐng dào qiántái lái,",
+      "vi": "Sau khi nghe thấy thông báo hãy đến quầy lễ tân."
+    },
+    {
+      "time": "1:35",
+      "zh": "你再广播你是找我。",
+      "py": "Nǐ zài guǎngbō nǐ shì zhǎo wǒ.",
+      "vi": "Ngươi lại phát thanh là đang tìm ta."
+    },
+    {
+      "time": "1:37",
+      "zh": "谢谢小朋友，谢谢小朋友，",
+      "py": "Xièxie xiǎopéngyou, xièxie xiǎopéngyou,",
+      "vi": "Cảm ơn nhóc, cảm ơn nhóc."
+    },
+    {
+      "time": "1:38",
+      "zh": "听到广播后请到前台来，你...你...",
+      "py": "Tīng dào guǎngbō hòu qǐng dào qiántái lái, nǐ... nǐ...",
+      "vi": "Sau khi nghe thấy thông báo hãy đến quầy lễ tân, ngươi... ngươi..."
+    },
+    {
+      "time": "1:40",
+      "zh": "你的妈妈在找你。谢谢……",
+      "py": "Nǐ de māma zài zhǎo nǐ. Xièxie...",
+      "vi": "Mẹ của ngươi đang tìm ngươi. Cảm ơn..."
+    },
+    {
+      "time": "1:41",
+      "zh": "好了好了不要喊了，不要喊了",
+      "py": "Hǎo le hǎo le bú yào hǎn le, bú yào hǎn le",
+      "vi": "Thôi thôi đừng hét nữa, đừng hét nữa."
+    },
+    {
+      "time": "1:43",
+      "parts": [
+        "我知道了，",
+        {
+          "word": "烦死了",
+          "key": "烦死了"
+        },
+        "！"
+      ],
+      "py": "Wǒ zhīdào le, fán sǐ le!",
+      "vi": "Ta biết rồi, phiền chết đi được!"
+    },
+    {
+      "time": "1:44",
+      "zh": "那你赶快回去吧，别让我妈等急。",
+      "py": "Nà nǐ gǎnkuài huí qù ba, bié ràng wǒ mā děng jí.",
+      "vi": "Thế thì ngươi mau về đi, đừng để mẹ ta chờ lâu."
+    },
+    {
+      "time": "1:46",
+      "zh": "什么你妈你妈的，",
+      "py": "Shénme nǐ mā nǐ mā de,",
+      "vi": "Gì mà mẹ ngươi mẹ ngươi mãi thế."
+    },
+    {
+      "time": "1:47",
+      "zh": "我跟你说了我不是小朋友！",
+      "py": "Wǒ gēn nǐ shuō le wǒ bú shì xiǎopéngyou!",
+      "vi": "Ta đã nói với ngươi là ta không phải trẻ con!"
+    },
+    {
+      "time": "1:49",
+      "zh": "你有见过身材这么魁梧的小朋友吗？",
+      "py": "Nǐ yǒu jiàn guò shēncái zhème kuíwú de xiǎopéngyou ma?",
+      "vi": "Ngươi đã từng thấy đứa trẻ nào có thân hình cao lớn như thế này chưa?"
+    },
+    {
+      "time": "1:50",
+      "zh": "你有见过身材这么魁梧的小朋友吗？",
+      "py": "Nǐ yǒu jiàn guò shēncái zhème kuíwú de xiǎopéngyou ma?",
+      "vi": "Ngươi đã từng thấy đứa trẻ nào có thân hình cao lớn như thế này chưa?"
+    },
+    {
+      "time": "1:52",
+      "zh": "呃……",
+      "py": "E……",
+      "vi": "Ờ……"
+    },
+    {
+      "time": "1:54",
+      "zh": "哎呀反正我不是什么小朋友。",
+      "py": "Āiyā fǎnzhèng wǒ bú shì shénme xiǎopéngyou.",
+      "vi": "Ấy, dù sao ta cũng không phải trẻ con."
+    },
+    {
+      "time": "1:56",
+      "zh": "我告诉你，",
+      "py": "Wǒ gàosu nǐ,",
+      "vi": "Ta nói cho ngươi biết."
+    },
+    {
+      "time": "1:57",
+      "zh": "在我们神殿里，",
+      "py": "Zài wǒmen shéndiàn lǐ,",
+      "vi": "Trong thần điện của chúng ta."
+    },
+    {
+      "time": "1:58",
+      "zh": "我是属于非常高...受人敬仰，",
+      "py": "Wǒ shì shǔyú fēicháng gāo... shòu rén jìngyǎng,",
+      "vi": "Ta ở vị trí rất cao... được mọi người kính trọng."
+    },
+    {
+      "time": "2:00",
+      "parts": [
+        "是",
+        {
+          "word": "长老级别的人物",
+          "key": "长老级别的人物"
+        },
+        "。"
+      ],
+      "py": "Shì zhǎnglǎo jíbié de rénwù.",
+      "vi": "Cỡ trưởng lão đấy."
+    },
+    {
+      "time": "2:02",
+      "zh": "什么小朋友小朋友的。",
+      "py": "Shénme xiǎopéngyou xiǎopéngyou de.",
+      "vi": "Gì mà bạn nhỏ với bạn nhỏ."
+    },
+    {
+      "time": "2:03",
+      "zh": "哦是这样啊，失礼了失礼了。",
+      "py": "Ó shì zhèyàng a, shīlǐ le shīlǐ le.",
+      "vi": "Ồ, ra là vậy, thất lễ rồi, thất lễ rồi."
+    },
+    {
+      "time": "2:06",
+      "zh": "请问长老你今年几岁了呀？",
+      "py": "Qǐngwèn zhǎnglǎo nǐ jīnnián jǐ suì le ya?",
+      "vi": "Xin hỏi trưởng lão năm nay bao nhiêu tuổi rồi ạ?"
+    },
+    {
+      "time": "2:08",
+      "zh": "9岁。再过两个月就10岁了。",
+      "py": "Jiǔ suì. Zài guò liǎng ge yuè jiù shí suì le.",
+      "vi": "9 tuổi. Hai tháng nữa là 10 tuổi rồi."
+    },
+    {
+      "time": "2:11",
+      "zh": "呃……这不还是小朋友吗？",
+      "py": "E... zhè bù háishi xiǎopéngyou ma?",
+      "vi": "Ừm... thế này chẳng phải vẫn là trẻ con sao?"
+    },
+    {
+      "time": "2:14",
+      "zh": "你等一下……",
+      "py": "Nǐ děng yíxià...",
+      "vi": "Ngươi đợi một chút..."
+    },
+    {
+      "time": "2:16",
+      "zh": "谢浩凡小朋友，谢谢小朋友，",
+      "py": "Xiè Hàofán xiǎopéngyou, xièxie xiǎopéngyou.",
+      "vi": "Bạn nhỏ Tạ Hạo Phàm, cảm ơn bạn nhỏ."
+    },
+    {
+      "time": "2:18",
+      "zh": "听到广播后请到前台来，",
+      "py": "Tīng dào guǎngbō hòu qǐng dào qiántái lái.",
+      "vi": "Sau khi nghe thông báo hãy đến quầy lễ tân."
+    },
+    {
+      "time": "2:19",
+      "zh": "你的妈妈在找你。",
+      "py": "Nǐ de māma zài zhǎo nǐ.",
+      "vi": "Mẹ của bạn đang tìm bạn."
+    },
+    {
+      "time": "2:20",
+      "parts": [
+        "够了",
+        "够了不要喊了！我说的是真的。"
+      ],
+      "py": "Gòu le gòu le bú yào hǎn le! Wǒ shuō de shì zhēn de.",
+      "vi": "Đủ rồi, đủ rồi, đừng gọi nữa! Ta nói thật mà."
+    },
+    {
+      "time": "2:23",
+      "zh": "在我们种群里面，",
+      "py": "Zài wǒmen zhǒngqún lǐmiàn.",
+      "vi": "Trong chủng tộc của chúng ta."
+    },
+    {
+      "time": "2:24",
+      "parts": [
+        "能活到5岁就已经非常难得了。"
+      ],
+      "py": "Néng huó dào wǔ suì jiù yǐjīng fēicháng nándé le.",
+      "vi": "Sống được đến 5 tuổi đã là rất hiếm rồi."
+    },
+    {
+      "time": "2:27",
+      "zh": "要不是我已经成了精，早就死球了。",
+      "py": "Yào bú shì wǒ yǐjīng chéng le jīng, zǎo jiù sǐ qiú le.",
+      "vi": "Nếu không phải ta đã thành tinh thì đã chết toi từ lâu rồi."
+    },
+    {
+      "time": "2:30",
+      "parts": [
+        "哦原来是这样啊，",
+        {
+          "word": "你早说嘛",
+          "key": "你早说嘛"
+        },
+        "，"
+      ],
+      "py": "Ó yuánlái shì zhèyàng a, nǐ zǎo shuō ma.",
+      "vi": "Ồ, ra là vậy, ngươi nói sớm thì có phải hơn không."
+    },
+    {
+      "time": "2:33",
+      "zh": "我明白了。",
+      "py": "Wǒ míngbái le.",
+      "vi": "Ta hiểu rồi."
+    },
+    {
+      "time": "2:34",
+      "zh": "你当妖精多久了呀？",
+      "py": "Nǐ dāng yāojing duō jiǔ le ya?",
+      "vi": "Ngươi làm yêu tinh bao lâu rồi?"
+    },
+    {
+      "time": "2:35",
+      "zh": "3年。",
+      "py": "Sān nián.",
+      "vi": "3 năm."
+    },
+    {
+      "time": "2:36",
+      "zh": "当妖精好玩吗？",
+      "py": "Dāng yāojing hǎowán ma?",
+      "vi": "Làm yêu tinh có vui không?"
+    },
+    {
+      "time": "2:37",
+      "zh": "这有什么好不好玩的",
+      "py": "Zhè yǒu shénme hǎo bù hǎowán de.",
+      "vi": "Có gì mà vui với chẳng vui."
+    },
+    {
+      "time": "2:38",
+      "zh": "你父母知道你在做妖精吗？",
+      "py": "Nǐ fùmǔ zhīdào nǐ zài zuò yāojing ma?",
+      "vi": "Bố mẹ ngươi có biết ngươi làm yêu tinh không?"
+    },
+    {
+      "time": "2:40",
+      "zh": "不知道。",
+      "py": "Bù zhīdào.",
+      "vi": "Không biết."
+    },
+    {
+      "time": "2:41",
+      "zh": "他们支持你吗？",
+      "py": "Tāmen zhīchí nǐ ma?",
+      "vi": "Họ có ủng hộ ngươi không?"
+    },
+    {
+      "time": "2:42",
+      "zh": "都炖汤了。",
+      "py": "Dōu dùn tāng le.",
+      "vi": "Đều bị hầm thành canh rồi."
+    },
+    {
+      "time": "2:44",
+      "zh": "做你们这行压力大吗？",
+      "py": "Zuò nǐmen zhè háng yālì dà ma?",
+      "vi": "Làm nghề của các ngươi áp lực có lớn không?"
+    },
+    {
+      "time": "2:46",
+      "zh": "你在这，我就觉得压力挺大的。",
+      "py": "Nǐ zài zhè, wǒ jiù juéde yālì tǐng dà de.",
+      "vi": "Có ngươi ở đây là ta đã thấy khá áp lực rồi."
+    },
+    {
+      "time": "2:47",
+      "zh": "能告诉我你是什么妖精吗？",
+      "py": "Néng gàosu wǒ nǐ shì shénme yāojing ma?",
+      "vi": "Có thể nói cho ta biết ngươi là yêu tinh gì không?"
+    },
+    {
+      "time": "2:48",
+      "zh": "这，这还不明显吗？",
+      "py": "Zhè, zhè hái bù míngxiǎn ma?",
+      "vi": "Cái này, cái này còn chưa rõ à?"
+    },
+    {
+      "time": "2:50",
+      "zh": "哦？哦，原来你是鸡精啊，",
+      "py": "Ó? Ó, yuánlái nǐ shì jījīng a.",
+      "vi": "Ồ? Ồ, ra ngươi là gà tinh à."
+    },
+    {
+      "time": "2:56",
+      "zh": "难怪闻起来这么鲜。",
+      "py": "Nánguài wén qǐlái zhème xiān.",
+      "vi": "Bảo sao ngửi thấy thơm/ngon thế."
+    },
+    {
+      "time": "2:58",
+      "zh": "啊？",
+      "py": "A?",
+      "vi": "Hả?"
+    },
+    {
+      "time": "2:59",
+      "zh": "你为什么要选择做鸡呢？",
+      "py": "Nǐ wèishéme yào xuǎnzé zuò jī ne?",
+      "vi": "Tại sao ngươi lại chọn làm gà?"
+    },
+    {
+      "time": "3:00",
+      "zh": "你为什么要选择做鸡呢？",
+      "py": "Nǐ wèishéme yào xuǎnzé zuò jī ne?",
+      "vi": "Tại sao ngươi lại chọn làm gà?"
+    },
+    {
+      "time": "3:03",
+      "zh": "成精后有没有什么特别的技能啊？",
+      "py": "Chéng jīng hòu yǒu méiyǒu shénme tèbié de jìnéng a?",
+      "vi": "Sau khi thành tinh có kỹ năng đặc biệt nào không?"
+    },
+    {
+      "time": "3:05",
+      "zh": "除了会说人话了，没别的了。",
+      "py": "Chúle huì shuō rénhuà le, méi bié de le.",
+      "vi": "Ngoài việc biết nói tiếng người ra thì không có gì khác."
+    },
+    {
+      "time": "3:07",
+      "zh": "没别的吗？",
+      "py": "Méi bié de ma?",
+      "vi": "Không có gì khác à?"
+    },
+    {
+      "time": "3:08",
+      "zh": "我看其他人成精了还会飞什么的。",
+      "py": "Wǒ kàn qítā rén chéngjīng le hái huì fēi shénme de.",
+      "vi": "Ta thấy những người khác thành tinh còn biết bay gì đó."
+    },
+    {
+      "time": "3:11",
+      "zh": "我本来就会飞啊。",
+      "py": "Wǒ běnlái jiù huì fēi a.",
+      "vi": "Vốn dĩ ta đã biết bay rồi mà."
+    },
+    {
+      "time": "3:12",
+      "zh": "鸡会飞吗？",
+      "py": "Jī huì fēi ma?",
+      "vi": "Gà biết bay à?"
+    },
+    {
+      "time": "3:14",
+      "parts": [
+        {
+          "word": "我无语",
+          "key": "我无语"
+        }
+      ],
+      "py": "Wǒ wúyǔ.",
+      "vi": "Ta cạn lời."
+    },
+    {
+      "time": "3:15",
+      "zh": "那成了精以后，你是突然就会说话了，",
+      "py": "Nà chéng le jīng yǐhòu, nǐ shì tūrán jiù huì shuōhuà le.",
+      "vi": "Thế sau khi thành tinh, ngươi đột nhiên biết nói luôn à?"
+    },
+    {
+      "time": "3:18",
+      "zh": "还是慢慢学会说话的呢？",
+      "py": "Háishì mànman xuéhuì shuōhuà de ne?",
+      "vi": "Hay là từ từ học nói?"
+    },
+    {
+      "time": "3:19",
+      "parts": [
+        "你",
+        {
+          "word": "能不能不要这么多问题",
+          "key": "能不能不要这么多问题"
+        },
+        "！"
+      ],
+      "py": "Nǐ néng bu néng bú yào zhème duō wèntí!",
+      "vi": "Ngươi có thể đừng hỏi nhiều câu như vậy nữa được không!"
+    },
+    {
+      "time": "3:22",
+      "zh": "哦，好的。你还会说其他语言吗？",
+      "py": "Ó, hǎo de. Nǐ hái huì shuō qítā yǔyán ma?",
+      "vi": "Ồ, được. Ngươi còn biết nói ngôn ngữ khác không?"
+    },
+    {
+      "time": "3:28",
+      "zh": "你再说一个字我就弄死你！",
+      "py": "Nǐ zài shuō yí ge zì wǒ jiù nòng sǐ nǐ!",
+      "vi": "Ngươi nói thêm một chữ nữa là ta xử ngươi!"
+    },
+    {
+      "time": "3:30",
+      "zh": "你再说一个字我就弄死你！",
+      "py": "Nǐ zài shuō yí ge zì wǒ jiù nòng sǐ nǐ!",
+      "vi": "Ngươi nói thêm một chữ nữa là ta xử ngươi!"
+    },
+    {
+      "time": "3:31",
+      "zh": "我拔光你的牙，我拍烂你的嘴！",
+      "py": "Wǒ bá guāng nǐ de yá, wǒ pāi làn nǐ de zuǐ!",
+      "vi": "Ta nhổ sạch răng ngươi, ta đập nát miệng ngươi!"
+    },
+    {
+      "time": "3:41",
+      "zh": "（原截图文字待确认）",
+      "py": "",
+      "vi": "Nội dung trong ảnh chưa đủ rõ để xác nhận."
+    },
+    {
+      "time": "3:42",
+      "zh": "什么？",
+      "py": "Shénme?",
+      "vi": "Cái gì?"
+    },
+    {
+      "time": "3:43",
+      "zh": "（原截图文字待确认）",
+      "py": "",
+      "vi": "Nội dung trong ảnh chưa đủ rõ để xác nhận."
+    },
+    {
+      "time": "3:45",
+      "zh": "什么？",
+      "py": "Shénme?",
+      "vi": "Cái gì?"
+    },
+    {
+      "time": "3:47",
+      "zh": "What's your mother's name?",
+      "py": "What's your mother's name?",
+      "vi": "Mẹ của ngươi tên gì?"
+    },
+    {
+      "time": "3:49",
+      "parts": [
+        {
+          "word": "说人话",
+          "key": "说人话"
+        },
+        "！"
+      ],
+      "py": "Shuō rénhuà!",
+      "vi": "Nói tiếng người đi!"
+    },
+    {
+      "time": "3:50",
+      "zh": "你妈贵姓啊？",
+      "py": "Nǐ mā guìxìng a?",
+      "vi": "Mẹ ngươi họ gì vậy?"
+    },
+    {
+      "time": "3:51",
+      "parts": [
+        "我",
+        {
+          "word": "特么",
+          "key": "我特么"
+        },
+        "……"
+      ],
+      "py": "Wǒ tèmā...",
+      "vi": "Tao đệt..."
+    },
+    {
+      "time": "3:52",
+      "zh": "啊啊啊！",
+      "py": "A a a!",
+      "vi": "A a a!"
+    }
+  ],
+  "explanationData": {
+    "装怪": {
+      "word": "装怪",
+      "pinyin": "zhuāng guài",
+      "meaning": "Cố tình làm chuyện kỳ quặc, cố tình làm khó người khác hoặc giở trò.",
+      "context": "Khẩu ngữ, thiên về phương ngữ miền Nam; dùng khi đùa với bạn bè hoặc cho rằng đối phương cố tình làm khó mình.",
+      "usage": "Động từ/cụm động từ, thường dùng theo mẫu “跟XX装怪”.",
+      "example": "你别跟我装怪，我知道你早就准备好了礼物。",
+      "examplePy": "Nǐ bié gēn wǒ zhuāng guài, wǒ zhīdào nǐ zǎo jiù zhǔnbèi hǎo le lǐwù.",
+      "exampleVi": "Đừng có giở trò với tôi, tôi biết cậu đã chuẩn bị quà từ lâu rồi.",
+      "sentence": "你是不是要跟我装怪？",
+      "sentencePy": "Nǐ shì bú shì yào gēn wǒ zhuāng guài?",
+      "sentenceVi": "Mày đang giở trò với tao đấy à?"
+    },
+    "劳资": {
+      "word": "劳资",
+      "pinyin": "láo zi",
+      "meaning": "Cách viết của 老子; trong khẩu ngữ dùng để tự xưng “tao/tôi”, mang sắc thái kiêu ngạo hoặc tức giận.",
+      "context": "Không trang trọng, thường dùng khi cãi nhau hoặc nói mạnh; sắc thái khá gắt.",
+      "usage": "Làm chủ ngữ, thường đứng đầu câu và thay cho 我.",
+      "example": "劳资今天不想加班！",
+      "examplePy": "Láo zi jīntiān bù xiǎng jiābān!",
+      "exampleVi": "Tao hôm nay không muốn tăng ca!",
+      "sentence": "劳资今天弄死你！",
+      "sentencePy": "Láozī jīntiān nòng sǐ nǐ!",
+      "sentenceVi": "Tao hôm nay sẽ xử mày!"
+    },
+    "弄死": {
+      "word": "弄死",
+      "pinyin": "nòng sǐ",
+      "meaning": "Nghĩa đen là giết chết; trong khẩu ngữ thường là cách nói phóng đại như “xử”, “dạy cho một bài học”, không nhất thiết là giết thật.",
+      "context": "Dùng khi tức giận, nói mạnh hoặc bạn bè trêu đùa. Có sắc thái công kích.",
+      "usage": "Động từ + đối tượng: 弄死 + ai đó.",
+      "example": "你再抢我的零食，我就要弄死你！",
+      "examplePy": "Nǐ zài qiǎng wǒ de língshí, wǒ jiù yào nòng sǐ nǐ!",
+      "exampleVi": "Mày mà còn giành đồ ăn vặt của tao, tao xử mày đấy!",
+      "sentence": "劳资今天弄死你！",
+      "sentencePy": "Láozī jīntiān nòng sǐ nǐ!",
+      "sentenceVi": "Tao hôm nay sẽ xử mày!"
+    },
+    "多嘴": {
+      "word": "多嘴",
+      "pinyin": "duōzuǐ",
+      "meaning": "Nói xen vào, nói những điều không cần thiết; ý là “không cần ngươi nói”.",
+      "context": "Dùng khi người khác chủ động xen vào hoặc đưa ra ý kiến khiến người nói khó chịu.",
+      "usage": "Thường xuất hiện trong lời trách móc như “要你多嘴”.",
+      "example": "这件事我自己能处理，要你多嘴？",
+      "examplePy": "Zhè jiàn shì wǒ zìjǐ néng chǔlǐ, yào nǐ duōzuǐ?",
+      "exampleVi": "Chuyện này tôi tự xử lý được, cần gì cậu xen vào?",
+      "sentence": "要你多嘴，我是在测试门的质量。",
+      "sentencePy": "Yào nǐ duōzuǐ, wǒ shì zài cèshì mén de zhìliàng.",
+      "sentenceVi": "Cần ngươi nói hả, ta đang kiểm tra chất lượng cửa."
+    },
+    "倒是": {
+      "word": "倒是",
+      "pinyin": "dǎoshì",
+      "meaning": "Phản lại, trái lại; dùng để tạo sự đối chiếu với nội dung phía trước.",
+      "context": "Dùng trong hội thoại hằng ngày để tạo quan hệ tương phản.",
+      "usage": "Thường đứng sau chủ ngữ và trước vị ngữ.",
+      "example": "作业没写完，玩游戏倒是很积极。",
+      "examplePy": "Zuòyè méi xiě wán, wán yóuxì dǎoshì hěn jījí.",
+      "exampleVi": "Bài tập chưa làm xong mà chơi game thì lại rất tích cực.",
+      "sentence": "智商倒是测出来了。",
+      "sentencePy": "Zhìshāng dǎoshì cè chūlái le.",
+      "sentenceVi": "Mà IQ thì đo ra rồi."
+    },
+    "将头发梳成大人模样，穿上一身帅气衣裳": {
+      "word": "将头发梳成大人模样，穿上一身帅气衣裳",
+      "pinyin": "jiāng tóufa shū chéng dàrén móyàng, chuān shàng yī shēn shuàiqì yīshang",
+      "meaning": "Chải tóc theo dáng vẻ người lớn, mặc một bộ quần áo bảnh bao.",
+      "context": "Là một câu trong lời bài hát, được dùng để trêu chọc người còn nhỏ nhưng cố ăn mặc như người lớn.",
+      "usage": "Thường dùng cả cụm để miêu tả hoặc trêu chọc.",
+      "example": "他把西装穿上，将头发梳成大人模样，结果还是像个学生。",
+      "examplePy": "Tā bǎ xīzhuāng chuān shàng, jiāng tóufa shū chéng dàrén móyàng, jiéguǒ háishi xiàng ge xuéshēng.",
+      "exampleVi": "Anh ấy mặc vest và chải tóc theo dáng vẻ người lớn, cuối cùng vẫn trông như học sinh.",
+      "sentence": "虽然你将头发梳成大人模样，穿上一身帅气衣裳。",
+      "sentencePy": "Suīrán nǐ jiāng tóufa shū chéng dàrén móyàng, chuān shàng yī shēn shuàiqì yīshang.",
+      "sentenceVi": "Dù ngươi chải tóc trông giống người lớn, mặc một bộ đồ bảnh bao."
+    },
+    "稚气": {
+      "word": "稚气",
+      "pinyin": "zhì qì",
+      "meaning": "Trẻ con, non nớt; cảm giác ngây thơ và chưa trưởng thành.",
+      "context": "Dùng để miêu tả vẻ mặt, thần thái; dùng được trong văn nói và văn viết.",
+      "usage": "Danh từ; cũng dùng trong cụm “稚气的”.",
+      "example": "虽然他已经十八岁了，脸上还带着稚气。",
+      "examplePy": "Suīrán tā yǐjīng shíbā suì le, liǎn shàng hái dàizhe zhìqì.",
+      "exampleVi": "Dù đã 18 tuổi nhưng trên khuôn mặt anh ấy vẫn còn nét trẻ con.",
+      "sentence": "但也掩盖不了你那张稚气的脸庞。",
+      "sentencePy": "Dàn yě yǎngài bùliǎo nǐ nà zhāng zhìqì de liǎnpáng.",
+      "sentenceVi": "Nhưng cũng không thể che lấp được gương mặt non nớt của ngươi."
+    },
+    "瞎呀": {
+      "word": "瞎呀",
+      "pinyin": "xiā ya",
+      "meaning": "Nghĩa đen là “mù à”; khẩu ngữ có ý “sao không nhìn thấy?”, “không để ý à?”.",
+      "context": "Thường nói khi tức giận hoặc mất kiên nhẫn; khá bất lịch sự.",
+      "usage": "Câu hỏi ngắn, thường dùng trong lúc cãi nhau hoặc trách móc.",
+      "example": "你瞎呀，没看见地上有水吗？",
+      "examplePy": "Nǐ xiā ya, méi kànjiàn dìshang yǒu shuǐ ma?",
+      "exampleVi": "Mày mù à, không thấy dưới đất có nước sao?",
+      "sentence": "你瞎呀。",
+      "sentencePy": "Nǐ xiā ya.",
+      "sentenceVi": "Ngươi mù à?"
+    },
+    "实打实": {
+      "word": "实打实",
+      "pinyin": "shídǎshí",
+      "meaning": "Thật, thực sự, chắc chắn; nhấn mạnh rằng không giả tạo hay khoe khoang.",
+      "context": "Khẩu ngữ, dùng để nhấn mạnh tính chân thực.",
+      "usage": "Thường đứng trước hoặc kết hợp với thành phần cần nhấn mạnh.",
+      "example": "他是实打实的冠军，没有作弊。",
+      "examplePy": "Tā shì shídǎshí de guànjūn, méiyǒu zuòbì.",
+      "exampleVi": "Anh ấy là nhà vô địch thực sự, không gian lận.",
+      "sentence": "人家是实打实的成年人。",
+      "sentencePy": "Rénjiā shì shídǎshí de chéngnián rén.",
+      "sentenceVi": "Người ta là người trưởng thành chính hiệu."
+    },
+    "到处乱跑": {
+      "word": "到处乱跑",
+      "pinyin": "dàochù luàn pǎo",
+      "meaning": "Chạy lung tung, chạy đến nhiều nơi không có mục đích.",
+      "context": "Thường dùng để nói về trẻ nhỏ hoặc động vật; người lớn hay dùng khi nhắc nhở.",
+      "usage": "Cụm động từ.",
+      "example": "公园里人多，不要到处乱跑。",
+      "examplePy": "Gōngyuán lǐ rén duō, bú yào dàochù luàn pǎo.",
+      "exampleVi": "Trong công viên đông người, đừng chạy lung tung.",
+      "sentence": "你这么小就不要到处乱跑了。",
+      "sentencePy": "Nǐ zhème xiǎo jiù bú yào dàochù luàn pǎo le.",
+      "sentenceVi": "Ngươi còn nhỏ như vậy thì đừng chạy lung tung nữa."
+    },
+    "广播": {
+      "word": "广播",
+      "pinyin": "guǎngbō",
+      "meaning": "Phát thông báo qua loa hoặc hệ thống phát thanh.",
+      "context": "Dùng trong những nơi công cộng như trung tâm thương mại, khu vui chơi để gọi hoặc tìm người.",
+      "usage": "Có thể dùng như động từ hoặc danh từ tùy ngữ cảnh.",
+      "example": "孩子走丢了，管理员准备喊广播找人。",
+      "examplePy": "Háizi zǒu diū le, guǎnlǐyuán zhǔnbèi hǎn guǎngbō zhǎo rén.",
+      "exampleVi": "Đứa trẻ bị lạc, quản lý chuẩn bị phát loa để tìm người.",
+      "sentence": "谢谢小朋友，听到广播后请到前台来。",
+      "sentencePy": "Xièxie xiǎopéngyou, tīng dào guǎngbō hòu qǐng dào qiántái lái.",
+      "sentenceVi": "Cảm ơn bạn nhỏ, sau khi nghe thông báo hãy đến quầy lễ tân."
+    },
+    "烦死了": {
+      "word": "烦死了",
+      "pinyin": "fán sǐ le",
+      "meaning": "Phiền chết đi được, cực kỳ khó chịu.",
+      "context": "Dùng khi gặp chuyện lặp đi lặp lại hoặc điều gì đó khiến người nói bực bội.",
+      "usage": "Câu cảm thán độc lập.",
+      "example": "别一直问我同一个问题，烦死了！",
+      "examplePy": "Bié yìzhí wèn wǒ tóng yí ge wèntí, fán sǐ le!",
+      "exampleVi": "Đừng cứ hỏi tôi mãi một câu, phiền chết đi được!",
+      "sentence": "我知道了，烦死了！",
+      "sentencePy": "Wǒ zhīdào le, fán sǐ le!",
+      "sentenceVi": "Ta biết rồi, phiền chết đi được!"
+    },
+    "长老级别的人物": {
+      "word": "长老级别的人物",
+      "pinyin": "zhǎnglǎo jíbié de rénwù",
+      "meaning": "Người thuộc cấp bậc trưởng lão; chỉ người có địa vị hoặc vai vế cao.",
+      "context": "Thường xuất hiện trong thần thoại, truyện hoặc cách nói đùa để khoe mình có địa vị cao.",
+      "usage": "Dùng để mô tả thân phận hoặc địa vị.",
+      "example": "在这个门派里，他是长老级别的人物，大家都很尊重他。",
+      "examplePy": "Zài zhège ménpài lǐ, tā shì zhǎnglǎo jíbié de rénwù, dàjiā dōu hěn zūnzhòng tā.",
+      "exampleVi": "Trong môn phái này, ông ấy là nhân vật cấp trưởng lão, mọi người đều rất tôn trọng.",
+      "sentence": "我是属于非常高...受人敬仰，是长老级别的人物。",
+      "sentencePy": "Wǒ shì shǔyú fēicháng gāo... shòu rén jìngyǎng, shì zhǎnglǎo jíbié de rénwù.",
+      "sentenceVi": "Ta thuộc cấp bậc rất cao... được mọi người kính trọng, là nhân vật cấp trưởng lão."
+    },
+    "够了": {
+      "word": "够了",
+      "pinyin": "gòu le",
+      "meaning": "Đủ rồi; dừng lại, đừng tiếp tục nữa.",
+      "context": "Dùng khi đối phương cứ lặp lại một việc khiến người nói khó chịu.",
+      "usage": "Câu cảm thán ngắn.",
+      "example": "够了！不要再吵了。",
+      "examplePy": "Gòu le! Bú yào zài chǎo le.",
+      "exampleVi": "Đủ rồi! Đừng cãi nữa.",
+      "sentence": "够了够了不要喊了！",
+      "sentencePy": "Gòu le gòu le bú yào hǎn le!",
+      "sentenceVi": "Đủ rồi, đủ rồi, đừng gọi nữa!"
+    },
+    "你早说嘛": {
+      "word": "你早说嘛",
+      "pinyin": "nǐ zǎo shuō ma",
+      "meaning": "Nếu ngươi nói sớm thì đã tốt rồi; có chút cảm giác “lúc nãy ta hiểu nhầm”.",
+      "context": "Dùng khi đối phương mãi sau mới nói ra thông tin quan trọng.",
+      "usage": "Câu ngắn độc lập trong hội thoại.",
+      "example": "原来你不吃辣？你早说嘛，我就不点这个菜了。",
+      "examplePy": "Yuánlái nǐ bù chī là? Nǐ zǎo shuō ma, wǒ jiù bù diǎn zhège cài le.",
+      "exampleVi": "Ra là cậu không ăn cay? Cậu nói sớm thì tôi đã không gọi món này.",
+      "sentence": "哦原来是这样啊，你早说嘛，我明白了。",
+      "sentencePy": "Ó yuánlái shì zhèyàng a, nǐ zǎo shuō ma, wǒ míngbái le.",
+      "sentenceVi": "Ồ, ra là vậy, ngươi nói sớm thì ta đã hiểu rồi."
+    },
+    "我无语": {
+      "word": "我无语",
+      "pinyin": "wǒ wúyǔ",
+      "meaning": "Ta cạn lời; không biết phải nói gì nữa vì hành động của đối phương quá buồn cười hoặc khó hiểu.",
+      "context": "Cụm khẩu ngữ mạng rất phổ biến, thể hiện sự bất lực hoặc dở khóc dở cười.",
+      "usage": "Câu ngắn độc lập.",
+      "example": "跟你说了三遍还是记错，我无语。",
+      "examplePy": "Gēn nǐ shuō le sān biàn háishi jì cuò, wǒ wúyǔ.",
+      "exampleVi": "Nói với cậu ba lần rồi mà vẫn nhớ sai, tôi cạn lời.",
+      "sentence": "我无语。",
+      "sentencePy": "Wǒ wúyǔ.",
+      "sentenceVi": "Ta cạn lời."
+    },
+    "能不能不要这么多问题": {
+      "word": "能不能不要这么多问题",
+      "pinyin": "néng bu néng bú yào zhème duō wèntí",
+      "meaning": "Có thể đừng hỏi nhiều câu như vậy nữa được không?",
+      "context": "Thể hiện sự không kiên nhẫn khi người khác liên tục hỏi.",
+      "usage": "Câu hỏi dùng để yêu cầu hoặc thể hiện sự không hài lòng.",
+      "example": "能不能不要这么多问题，等会儿你就知道了。",
+      "examplePy": "Néng bu néng bú yào zhème duō wèntí, děnghuìr nǐ jiù zhīdào le.",
+      "exampleVi": "Có thể đừng hỏi nhiều thế nữa không, lát nữa cậu sẽ biết.",
+      "sentence": "你能不能不要这么多问题！",
+      "sentencePy": "Nǐ néng bu néng bú yào zhème duō wèntí!",
+      "sentenceVi": "Ngươi có thể đừng hỏi nhiều câu như vậy nữa được không!"
+    },
+    "说人话": {
+      "word": "说人话",
+      "pinyin": "shuō rénhuà",
+      "meaning": "Nói cho dễ hiểu, nói bằng cách mà người bình thường có thể hiểu.",
+      "context": "Dùng khi đối phương nói ngoại ngữ, thuật ngữ khó hiểu hoặc nói điều gì đó khó hiểu; sắc thái hơi thiếu kiên nhẫn.",
+      "usage": "Câu ngắn độc lập.",
+      "example": "别讲这些专业术语了，说人话！",
+      "examplePy": "Bié jiǎng zhèxiē zhuānyè shùyǔ le, shuō rénhuà!",
+      "exampleVi": "Đừng nói mấy thuật ngữ chuyên môn nữa, nói cho dễ hiểu đi!",
+      "sentence": "说人话！",
+      "sentencePy": "Shuō rénhuà!",
+      "sentenceVi": "Nói tiếng người đi!"
+    },
+    "我特么": {
+      "word": "我特么（我tm）",
+      "pinyin": "wǒ tèmā",
+      "meaning": "Cách viết giảm nhẹ của 他妈的, dùng như từ cảm thán để tăng mức độ tức giận hoặc kích động.",
+      "context": "Dùng khi tức giận hoặc kích động; là cách nói tục, không dùng trong hoàn cảnh trang trọng hoặc với người lạ.",
+      "usage": "Thường đặt ở đầu câu để nhấn mạnh cảm xúc.",
+      "example": "我特么再也不想等他了！",
+      "examplePy": "Wǒ tèmā zài yě bù xiǎng děng tā le!",
+      "exampleVi": "Tao đệt, tao không muốn chờ hắn nữa!",
+      "sentence": "我特么……",
+      "sentencePy": "Wǒ tèmā...",
+      "sentenceVi": "Tao đệt..."
+    },
+    "魁梧": {
+      "word": "魁梧",
+      "pinyin": "kuíwú",
+      "meaning": "Cao lớn, vạm vỡ, khỏe mạnh về vóc dáng.",
+      "context": "Dùng để miêu tả thân hình; thường mang sắc thái tích cực và thường dùng cho nam giới.",
+      "usage": "Tính từ, thường dùng với 身材 / 身体.",
+      "example": "那个运动员身材十分魁梧。",
+      "examplePy": "Nàge yùndòngyuán shēncái shífēn kuíwú.",
+      "exampleVi": "Vận động viên đó có thân hình rất vạm vỡ.",
+      "sentence": "你有见过身材这么魁梧的小朋友吗？",
+      "sentencePy": "Nǐ yǒu jiàn guò shēncái zhème kuíwú de xiǎopéngyou ma?",
+      "sentenceVi": "Ngươi đã từng thấy đứa trẻ nào có thân hình cao lớn như thế này chưa?"
+    },
+    "非常难得": {
+      "word": "非常难得",
+      "pinyin": "fēicháng nándé",
+      "meaning": "Rất hiếm, rất khó có được; trong câu này là sống đến tuổi đó đã là điều hiếm có.",
+      "context": "Đây là nội dung bổ sung từ transcript, không phải một mục riêng trong file Doubao.",
+      "usage": "难得 thường dùng để nói một điều hiếm hoặc đáng quý.",
+      "example": "能有这样的机会非常难得。",
+      "examplePy": "Néng yǒu zhèyàng de jīhuì fēicháng nándé.",
+      "exampleVi": "Có được cơ hội như vậy là rất hiếm.",
+      "sentence": "能活到5岁就已经非常难得了。",
+      "sentencePy": "Néng huó dào wǔ suì jiù yǐjīng fēicháng nándé le.",
+      "sentenceVi": "Sống được đến 5 tuổi đã là rất hiếm rồi."
+    },
+    "你妈贵姓啊": {
+      "word": "你妈贵姓啊",
+      "pinyin": "nǐ mā guìxìng a",
+      "meaning": "Cách hỏi họ của mẹ đối phương; trong ngữ cảnh đoạn thoại được dùng theo kiểu chọc ghẹo.",
+      "context": "Nội dung bổ sung từ transcript; file Doubao không có mục giải thích riêng cho câu này.",
+      "usage": "贵姓 là cách hỏi họ lịch sự, nhưng đặt trong câu này mang tính hài hước/chọc ghẹo.",
+      "example": "请问您贵姓？",
+      "examplePy": "Qǐngwèn nín guìxìng?",
+      "exampleVi": "Xin hỏi quý danh/họ của bạn là gì?",
+      "sentence": "你妈贵姓啊？",
+      "sentencePy": "Nǐ mā guìxìng a?",
+      "sentenceVi": "Mẹ ngươi họ gì vậy?"
+    }
+  }
+}
